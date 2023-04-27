@@ -1,0 +1,68 @@
+.banner-principal{
+    background: url('../img/background.jpeg');
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
+
+.crema-claro{
+    background-color: rgb(240,229,213);
+}
+
+.crema-oscuro{
+    background-color: rgb(190,178,161);
+}
+
+.verde-pastel{
+    background-color: rgb(147,158,140);
+}
+
+.img-principal{
+    height: 750px;
+    margin-top: -70px !important;
+    position: relative;
+    background: url('../img/background.jpeg');
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
+
+.img-card-1{
+    background: url('../img/background.jpeg');
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
+
+.height-3{
+    height: 3em !important;
+}
+
+.height-5{
+    height: 5em !important;
+}
+
+.height-10{
+    height: 10em !important;
+}
+
+.height-20{
+    height: 20em !important;
+}
+
+.height-25{
+    height: 25em !important;
+}
+
+.height-30{
+    height: 30em !important;
+}
+
+.height-35{
+    height: 35em !important;
+}
+
+.height-45{
+    height: 45em !important;
+}
+
+.card-title{
+    border-radius: 25px;
+}
